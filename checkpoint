@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\IMAGE_FORGERY_PROJECT\\image_forgery-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "C:\\IMAGE_FORGERY_PROJECT\\image_forgery-0.001-2conv-basic.model"
